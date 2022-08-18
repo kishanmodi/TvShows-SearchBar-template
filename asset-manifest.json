@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/TvShows-SearchBar-template/static/css/main.fef12792.css",
-    "main.js": "/TvShows-SearchBar-template/static/js/main.18086c07.js",
+    "main.css": "/TvShows-SearchBar-template/static/css/main.21e88248.css",
+    "main.js": "/TvShows-SearchBar-template/static/js/main.29d97d33.js",
     "static/media/image4.png": "/TvShows-SearchBar-template/static/media/image4.5a0be8a6504983dd9a18.png",
     "index.html": "/TvShows-SearchBar-template/index.html",
-    "main.fef12792.css.map": "/TvShows-SearchBar-template/static/css/main.fef12792.css.map",
-    "main.18086c07.js.map": "/TvShows-SearchBar-template/static/js/main.18086c07.js.map"
+    "main.21e88248.css.map": "/TvShows-SearchBar-template/static/css/main.21e88248.css.map",
+    "main.29d97d33.js.map": "/TvShows-SearchBar-template/static/js/main.29d97d33.js.map"
   },
   "entrypoints": [
-    "static/css/main.fef12792.css",
-    "static/js/main.18086c07.js"
+    "static/css/main.21e88248.css",
+    "static/js/main.29d97d33.js"
   ]
 }
